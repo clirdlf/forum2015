@@ -1,0 +1,8 @@
+---
+template: base
+---
+
+<h1>Program</h1>
+{% for session in collections.all %}
+<p><a href="{{ session.url }}">{{ session.data.title }}</a></p>
+{% endfor %}
