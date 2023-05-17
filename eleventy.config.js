@@ -8,6 +8,9 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
+
+	eleventyConfig.addPassthroughCopy('src/assets')
+
     return {
         templateFormats: [
             "md",

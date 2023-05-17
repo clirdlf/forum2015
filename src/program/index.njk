@@ -1,8 +1,112 @@
 ---
 template: base
+title: Program
 ---
 
-<h1>Program</h1>
+<strong>View the program and create your own schedule here: <a href="https://2014dlfforum.sched.org/" target="_blank">https://2014dlfforum.sched.org/</a>&nbsp;or for mobile: <a href="http://2014dlfforum.sched.org/mobile" target="_blank">http://2014dlfforum.sched.org/mobile</a>.</strong>
+
+<p>Bookmark the <a href="https://drive.google.com/?authuser=0#folders/0B9KcGf1gyIuvM3Y3cDJGUHNscTA">Community Reporting Google docs</a> folder.</p>
+
+<h2>Sunday, October 26, 2014</h2>
+<table class="table">
+    <tr>
+        <td>9 am–5 pm</td>
+        <td> CLIR/DLF Postdoctoral Fellowship Meeting</td>
+        <td> Clough Commons–Rm 323</td>
+        <td>Pre-Conference</td>
+    </tr>
+    <tr>
+        <td>1:30–5:30 pm</td>
+        <td> E-Research Peer Network and Mentoring Group Meeting </td>
+        <td> SunTrust Suite, Rialto Center</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>1–5 pm</td>
+        <td> Registration</td>
+        <td> Hotel Lobby</td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<h2>Monday, October 27, 2014</h2>
+<table class="table">
+    <tr>
+        <td>7–9 am</td> 
+        <td>Breakfast</td>
+        <td> Prefunction</td>
+    </tr>
+    <tr>
+        <td>7 am–5 pm</td>
+        <td> Registration</td>
+        <td> Prefunction</td>
+    </tr>
+    <tr>
+        <td>9–10:30 am</td>
+        <td> Welcome and <a href="{{ '/program/keynote' | url }}">Keynote Address</a></td>
+        <td> Grand Ballroom</td>
+    </tr>
+    <tr>
+        <td>10:30–10:45 am</td>
+        <td> Break</td>
+        <td> Prefunction</td>
+    </tr>
+</table>
+
+<h3>Concurrent Sessions</h3>
+
+<table class="table">
+    <tr>
+        <td>10:45 am–12 pm</td>
+        <td><a href="{{ '/program/80z' | url }}">Linked Data for Libraries: From Experimentation to Practice at Scale</a></td>
+        <td>Salons 1,2,3</td>
+        <td> Presentation</td>
+    </tr>
+    <tr>
+        <td>10:45 am–12 pm</td>
+        <td><a href="{{ '/program/62z' | url }}"> An All Purpose Archives Viewer: Displaying Large Scale Archival Collections in Digital Libraries</a> and <a href="{{ '/program/65z' | url }}">Spotlight: A Self-Service Tool for Showcasing Digital Collections</a></td>
+        <td>Salons 4,5,6</td>
+        <td> Presentation</td>
+    </tr>
+    <tr>
+        <td>10:45 am–12 pm</td> 
+        <td><a href="{{ '/program/40z43z' | url }}">Professional Development for Digital Scholarship</td>
+        <td> Conference A</td>
+        <td>Presentation</td>
+    </tr>
+</table>
+
+<h3>Lunch Options</h3>
+<table class="table">
+    <tr>
+        <td>12:00-1:30 pm</td> 
+        <td><a href="{{ '/program/74z' | url }}">From Zero to 60: Lessons Learned From Setting Up Digital Initiatives in Small to Mid-sized Academic Institutions</a></td>
+        <td>Conference E </td>
+        <td>Working Session</td>
+    </tr>
+    <tr>
+        <td>12:00-1:30 pm</td>
+        <td><a href="{{ '/program/01z' | url }}">Applied Altmetrics: Implementations and Uses within an Institution</a></td>
+        <td> Conference B</td> 
+        <td>Working Session</td>
+    </tr>
+    <tr>
+        <td>12:00-1:30 pm</td>
+        <td><a href="{{ '/program/80z' | url }}">Linked Data</a></td>
+        <td> Conference A </td>
+        <td>Birds of a Feather</td>
+    </tr>
+    <tr>
+        <td>12:00-1:30 pm</td>
+        <td> Buffet Lunch</td>
+        <td> Conference Dining Hall </td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+<h3>Concurrent Sessions</h3>
+
+
 {% for session in collections.all %}
 <p><a href="{{ session.url }}">{{ session.data.title }}</a></p>
 {% endfor %}
