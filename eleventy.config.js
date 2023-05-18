@@ -1,5 +1,6 @@
 const { DateTime } = require("luxon");
 const markdownItAnchor = require("markdown-it-anchor");
+const markdownItAttrs = require('markdown-it-attrs');
 
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
@@ -9,7 +10,41 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 module.exports = function(eleventyConfig) {
 
-	eleventyConfig.addPassthroughCopy('src/assets')
+	eleventyConfig.addPassthroughCopy('src/assets');
+
+	// Watch content images for the image pipeline.
+	eleventyConfig.addWatchTarget("src/**/*.{svg,webp,png,jpeg}");
+
+	// Official Plugins
+	eleventyConfig.addPlugin(pluginNavigation);
+	eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+	eleventyConfig.addPlugin(pluginBundle);
+
+	// options to open external links in new tab
+	const milaOptions = {
+		pattern: /^https?:/,
+		attrs: {
+			target: "_blank",
+			rel: "noopener noreferrer"
+		}
+	};
+
+	// Customize Markdown library settings:
+	eleventyConfig.amendLibrary("md", mdLib => {
+
+		mdLib.use(markdownItAttrs, milaOptions);
+
+		mdLib.use(markdownItAnchor, {
+			permalink: markdownItAnchor.permalink.ariaHidden({
+				placement: "after",
+				class: "header-anchor",
+				symbol: "#",
+				ariaHidden: false,
+			}),
+			level: [1,2,3,4],
+			slugify: eleventyConfig.getFilter("slugify")
+		});
+	});
 
     return {
         templateFormats: [

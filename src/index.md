@@ -1,5 +1,8 @@
 ---
 layout: base
+eleventyNavigation:
+  key: "Forum Home"
+  order: 10
 ---
 
 
@@ -13,9 +16,11 @@ Participation was open to all who are interested in contributing to and playing 
 Use the hashtag <a target="_blank" href="https://twitter.com/search?q=%23dlfforum">#dlfforum</a># to tweet about the DLF Forum!
 
 
-## Recent Forum News
+## 2014 Forum News
 
-*   [Calls For Proposals For 2023 CLIR Events Are Now Live](https://www.diglib.org/calls-for-proposals-for-2023-clir-events-are-now-live/) March 1, 2023
+### NOTE: WordPress pulls these from the latest; these are not 2014 related. 
+
+*   [Calls For Proposals For 2023 CLIR Events Are Now Live](https://www.diglib.org/calls-for-proposals-for-2023-clir-events-are-now-live/)March 1, 2023
     
       The Council on Library and Information Resources is pleased to announce that we have opened Calls for Proposals for our conferences happening in person in St. Louis, MO this November: the Digital Library Federation’s (DLF) Forum and Learn@DLF and NDSA’s Digital Preservation 2023: Communities of Time and Place. For all events, we encourage proposals from members and non-members; regulars and newcomers; ...
     

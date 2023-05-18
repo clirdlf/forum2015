@@ -1,0 +1,28 @@
+.bg-gold,
+.bg-silver,
+.bg-green,
+.bg-blue,
+.bg-darkgray {
+	color: #fff;
+	font-size: 2rem;
+}
+
+.bg-gold {
+	background-color: rgb(121, 116, 93);
+}
+
+.bg-silver {
+	background-color: rgb(120, 135, 148);
+}
+
+.bg-green {
+	background-color: rgb(58, 73, 26);
+}
+
+.bg-blue {
+    background-color: rgb(0, 67, 127);
+}
+
+.bg-darkgray {
+    background-color: rgb(59, 66, 74);
+}

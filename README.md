@@ -11,3 +11,5 @@ npm start
 ## Inspiration
 
 <https://web.archive.org/web/20150316024627/http://www.diglib.org/forums/2014forum>
+
+https://savjee.be/blog/migrating-this-blog-from-jekyll-to-eleventy/

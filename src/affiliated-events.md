@@ -1,9 +1,12 @@
 ---
 layout: base
 title: Affiliated Events
+eleventyNavigation:
+  key: Affiliated Events
+  order: 1
 ---
 
-[**Ally Skills Workshop**](https://www.diglib.org/dlf-events/2014forum/allies/)  
+[**Ally Skills Workshop**]({{ '2014forum/allies/' | url }})  
 Wednesday, October 29, 2014  
 $30, 3:00-5:00pm
 
@@ -11,17 +14,17 @@ $30, 3:00-5:00pm
 Sunday, October 26, 2014, 1:00–5:00pm  
 This meeting is for members of the [ERPNMG](https://www.diglib.org/learning/erpnmg/).
 
-**[#libtechwomen Meetup](https://www.diglib.org/libtechwomen-meetup/)**  
+**[#libtechwomen Meetup]({{ '/libtechwomen-meetup' | url }})**  
 Monday, October 27, 2014, following the Forum opening reception  
 No RSVP required.
 
-[**Listening-Based Python Workshop**](https://www.diglib.org/dlf-events/2014forum/registration/lbpw/)  
+**Listening-Based Python Workshop**
 Thursday, October 30, 2014 (includes required pre- and post-workshop conference calls)  
 $150/$75 students, 8:30am–5:00pm
 
-**[Running Group](https://www.diglib.org/forum-running-group/)**  
+**[Running Group]({{ '/forum-running-group' | url }})**  
 Tuesday, October 28, 2014, 6:15–7:00am
 
-[**Taiga Forum 10**](https://www.diglib.org/dlf-events/2014forum/registration/taiga/)  
+[**Taiga Forum 10**]({{ '/registration/taiga/' | url }})  
 Thursday, October 30, 2014  
 $90, 9:00am–4:00pm (includes lunch)

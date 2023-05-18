@@ -6,11 +6,11 @@ title: Snapshots
 
 Snapshots are 7-minute presentations meant to engage and energize the audience. Presenters are asked to give a dynamic overview of their topic in a quick timeframe, with up to 24 slides. Snapshot presentations are grouped together based on an over-arching theme or idea. There are four groups (A, B, C, and D) of snapshots at the 2014 DLF Forum.
 
-### Monday, October 27
+## Monday, October 27
 
-**Group A –** 2:30-3:30 pm
+## Group A
 
-[**Problems and Solutions for Ingest of Humanities Articles into Institutional Repositories**](https://www.diglib.org/wp-content/uploads/sites/3/2014/12/HALL_DLF2014_Humanities.pdf)  
+[**Problems and Solutions for Ingest of Humanities Articles into Institutional Repositories**]({{ '/assets/HALL_DLF2014_Humanities.pdf' }})  
 Nathan Hall, Virginia Tech University
 
 A number of authors (Madsen & Oleen, 2013) and projects ([http://cyber.law.harvard.edu/hoap/Filling\_the\_repository](http://cyber.law.harvard.edu/hoap/Filling_the_repository)) have documented some different methods for finding and efficiently processing research articles for ingest into institutional repositories. These sometimes involve using subscription-based tools such as Web of Science or SCOPUS. In addition to being subscription-based, these have the limitation of having less coverage in humanities and social science publications. This session will explore new avenues for exposing article level metadata in humanities journals in order to find publications to improve under-represented subject areas in institutional repositories.
@@ -28,19 +28,19 @@ Tim Cole, University of Illinois at Urbana-Champaign
 
 This snapshot will present preliminary findings on a user study of Emblematica Online, a digital humanities project currently funded by the National Endowment for the Humanities to build a multi-institutional archive of digitized Renaissance emblem books. From the interview data gathered for the user study, the research update will examine user needs for granular discovery and access in digital collections, and how Emblematica Online has developed unique strategies and metadata applications through collaboration with expert scholars in the curation of the digital archive.
 
-[**Bridging the Gap in Digital Collections: Application of 360 Degree Photography in Enhancing End-User Interfaces**](https://www.diglib.org/wp-content/uploads/sites/3/2014/12/DLF-BridgingTheGap_KinzaMasood-2014.pdf)  
+[**Bridging the Gap in Digital Collections: Application of 360 Degree Photography in Enhancing End-User Interfaces**]({{ '/assets/DLF-BridgingTheGap_KinzaMasood-2014.pdf' | url }})  
 Kinza Masood, University of Utah
 
 The Marriott Library has been struggling to provide its end users with an experience that is rich, fulfilling, and interactive. The library has recently established a workflow that connects a camera to a rotating turntable, placed in a tent resembling a translucent igloo, with controlled lighting. By capturing a series of images of an artifact, placed on the turntable, and stitching them together, the end product is an interactive JavaScript file that the user can turn around virtually, and look at from all sides. A comprehensive description of Marriott’s technology and application of this workflow is available at: [https://www.youtube.com/watch?v=lUfohvRyZfU&feature=youtu.be](https://www.youtube.com/watch?v=lUfohvRyZfU&feature=youtu.be)
 
-[**Florida Islandora: Challenges and Rewards of Collaborative Development & Implementation**](https://www.diglib.org/wp-content/uploads/sites/3/2014/11/McC_Dotson_Florida_Islandora.pdf)  
+[**Florida Islandora: Challenges and Rewards of Collaborative Development & Implementation**]({{ '/assets/McC_Dotson_Florida_Islandora.pdf' | url}})  
 Katie McCormick, Florida State University  
 Jean Phillips, Florida State University  
 Lee Dotson, University of Central Florida
 
 This panel will present some of the challenges and rewards of collaborative development and implementation of Islandora as a common digital platform for Florida’s state universities and colleges. The panel will discuss lessons learned from the migration of content from previous systems and the launch of the new Islandora-based sites. The panelists will also discuss how work occurs in an environment of continuous development. The presentation will also touch on the continued development for a statewide collection landing page for collaborative shared digital collections which will replace the current Publication of Archival Library & Museum Materials (PALMM) interface.
 
-**Group B –** 3:45-5:15 pm
+### Group B
 
 [**Researcher Expectations From Data Publication and Peer Review**](http://www.slideshare.net/UC3/dlf-presentation-slideshare)  
 John Kratz, California Digital Library
@@ -52,7 +52,7 @@ Sara Mannheimer, Montana State University
 
 In the past few years, open data policies have become more common. Much federally-funded research data must now be preserved and shared, and many academic journals now require that supporting data be made available. However, the open data trend has not met with universal approval from the research community. The debate surrounding PLOS’s March 2014 open data policy was especially visible on Twitter, where the hashtag #PLOSfail was used by detractors. By conducting a sentiment analysis on a subset of Twitter, we measure researcher attitudes toward open data over time, identifying general trends in public opinion surrounding open data.
 
-[**Faculty Attitudes Towards Data Sharing**](https://www.diglib.org/wp-content/uploads/sites/3/2014/12/Snapshot-Nathan-Hall-Data-Sharing.pdf)  
+[**Faculty Attitudes Towards Data Sharing**]({{ '/assets/Snapshot-Nathan-Hall-Data-Sharing.pdf' }})  
 Nathan Hall, Virginia Tech University
 
 This snapshot explores faculty attitudes towards data sharing. Data was gathered through semi-structured interviews at two large public universities. Interviews were transcribed and analyzed with NVivo. Emerging themes were the main findings. Findings include the participants’ attitudes and behaviors towards data sharing, along with the cultural norms, and organizational and economic incentives behind those attitudes and behaviors.
@@ -68,9 +68,9 @@ Helen Tibbo, University of North Carolina, Chapel Hill
 
 The IMLS-funded Creating Research Assets and Data using Lifecycle Education (CRADLE) project is working to enhance data curation education for librarians, archivists, and researchers by developing massive open online courses (MOOC) that will provide instruction on data curation principles. This presentation will focus on the efforts aimed at library and archival information professionals and seek community input on developing assignments that require MOOC students to make contact with data producers and information professionals at their local universities, libraries, research centers, or data repositories. Hosting virtual summits that provide ongoing opportunities to share data management experiences and continue will be discussed.
 
-### Tuesday, October 28
+## Tuesday, October 28
 
-**Group C –** 4:00-5:00 pm
+### Group C
 
 [**Fixing GIS Data Discovery, Presenting GeoBlacklight**](http://mejackreed.github.io/2014-dlf-fixing-gis-data-discovery/#/)  
 Jack Reed, Stanford University
@@ -100,7 +100,7 @@ Shared Shelf, a cloud-based image/video cataloging and asset management service 
 
 ### Wednesday, October 29
 
-**Group D –** 9:00-10:00 am
+### Group D
 
 **Digital Projects and Undergraduate Education**  
 Mark Dahl, Lewis & Clark College
@@ -118,7 +118,7 @@ Mike Nutt, North Carolina State University
 
 Libraries have begun to embrace interactive digital spaces as platforms for new kinds of services. With the opening of the James B. Hunt Jr. Library, the NCSU Libraries has created several of these spaces with various affordances. One of our goals for these spaces is to foster a high level of engagement with the university community. We will speak about two ways we are thinking about engagement and show examples of them in practice. First, we have developed engaging, interactive, participatory applications. Second, we are engaging our community in the creation of new kinds of scholarly communication for public display.
 
-[**Interactive Visualization: Video Walls for Collaborative Research and Discovery**](https://www.diglib.org/wp-content/uploads/sites/3/2014/12/Interactive-Visualization-GSU-snapshot.pdf)  
+[**Interactive Visualization: Video Walls for Collaborative Research and Discovery**](/assets/Interactive-Visualization-GSU-snapshot.pdf)  
 Krista Graham, Georgia State University  
 Khyle Hannan, Georgia State University  
 Joseph Hurley, Georgia State University  
