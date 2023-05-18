@@ -10,10 +10,10 @@ Keep the conversation going and try one of these hand-picked Atlanta restaurants
 
 Save your spot here: <https://docs.google.com/forms/d/121m2AnRex93qv8muuzXaqM3v7xQd6YngQKqtHgDevoI/viewform>. If a table is full, the restaurant will not be included in the choices on the form.
 
-<table>
+<table class="table">
 <tbody>
 <tr>
-<th style="width: 130px;">Restaurant</th>
+<th>Restaurant</th>
 <th>Cuisine</th>
 <th>Cost</th>
 <th>Location</th>
