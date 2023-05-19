@@ -15,10 +15,10 @@ DLF offered a livestream from the Forum. Streamed sessions were recorded, and he
 <table class="table">
 <tbody>
 <tr>
-<th style="width: 125px;">Time</th>
-<th style="width: 420px;">Session</th>
-<th style="width: 80px;">Recording</th>
-<th style="width: 225px;">Presenters</th>
+<th>Time</th>
+<th>Session</th>
+<th>Recording</th>
+<th>Presenters</th>
 </tr>
 <tr>
 <td>9:00-10:30 am</td>
