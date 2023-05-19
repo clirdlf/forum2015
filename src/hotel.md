@@ -5,7 +5,7 @@ eleventyNavigation:
   key: Hotel & Travel
   order: 4
 ---
-The Forum is at the **[Georgia Tech Hotel & Conference Center](https://web.archive.org/web/20150108232308/http://www.gatechhotel.com/)**, 800 Spring St. NW, Atlanta, GA 30308. Hotel rooms are in the same complex for $169/night for single or double occupancy, October 24–30.
+The Forum is at the **[Georgia Tech Hotel & Conference Center](http://www.gatechhotel.com/)**, 800 Spring St. NW, Atlanta, GA 30308. Hotel rooms are in the same complex for $169/night for single or double occupancy, October 24–30.
 
 The hotel is sold out.
 
@@ -17,7 +17,7 @@ These hotels are nearby (we do not have room blocks):
 
 ## Travel Advisory – RoadClosures
 
-Please be advised that travel to the hotel will be impacted by [road closures](https://web.archive.org/web/20150108232308/http://www.diglib.org/archives/6881/).
+Please be advised that travel to the hotel will be impacted by [road closures](https://www.diglib.org/travel-advisory-atlanta-road-closures/).
 
 ## Parking
 
