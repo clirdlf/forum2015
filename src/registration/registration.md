@@ -23,19 +23,19 @@ The Forum is October 27-29 in Atlanta, Georgia.
 
 **Please note, you do not have to register for the Forum to attend an affiliated event.**
 
-[**Allies Workshop**](http://www.diglib.org/forums/2014forum/allies/)  
+[**Allies Workshop**]({{ '/registration/allies/' }})  
 Wednesday, October 29, 2014  
 $30, 2 hours – time TBD
 
-[**Listening-Based Python Workshop**](http://www.diglib.org/forums/2014forum/registration/lbpw/)  
+[**Listening-Based Python Workshop**]({{ '/registration/lbpw/' | url }})  
 Thursday, October 30, 2014 (includes required pre- and post-workshop conference calls)  
 $150/$75 students – 8:30–5:00
 
-[**Taiga Forum 10**](http://www.diglib.org/forums/2014forum/registration/taiga/)  
+[**Taiga Forum 10**]({{ '/registration/taiga/' | url }})  
 Thursday, October 30, 2014  
 $90, 9am–4pm (includes lunch)
 
-Click the button above to register for an Affiliated Event. See all [Affiliated Events](http://www.diglib.org/forums/2014forum/affiliated-events/).
+Click the button above to register for an Affiliated Event. See all [Affiliated Events]({{ '/affiliated-events/' | url }}).
 
 ## The Fine Print
 
