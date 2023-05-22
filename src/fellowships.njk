@@ -1,0 +1,176 @@
+---
+title: Fellowships
+layout: presentation
+image: /assets/images/Capilano-Suspension-Bridge-w-tag.jpg
+eleventyNavigation:
+  key: Fellowships
+  order: 6
+---
+<p>
+  This year, the Digital Library Federation was thrilled to offer five separate fellowship programs for attendees to our annual DLF Forum. The generosity of our sponsors, partners, and member organizations will make it possible for the following 15 deserving awardees to attend the [2015 DLF Forum]({{ '/' | url }}) in Vancouver, British Columbia, October 26–28.
+</p>
+
+<hr>
+
+<h2>ARL + DLF Fellows from Underrepresented Groups</h2>
+
+<p>
+  This fellowship is for digital library, museum, or archive practitioners from traditionally underrepresented groups including, but not limited to, people of Hispanic or Latino, Black or African-American, Asian, Native Hawaiian or Pacific Islander, or American Indian or Alaskan Native descent.
+</p>
+
+<div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+  {% for fellow in arl_dlf_underrepresented %}
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <img src="{{ fellow.image | url }}" alt="{{ fellow.name }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ fellow.name }}</h5>
+          <p class="card-text">
+            {{ fellow.text | safe  }}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p>Learn more about the <a href="{{ '/fellowships/arldlf/' | url }}">ARL + DLF Fellows from Underrepresented Groups</a>.</p>
+
+<hr>
+
+<h2>DLF + ER&amp;L Cross-Pollinator Travel Award Fellows</h2>
+
+<p>
+  The goal of these travel awards is to bring cross-pollinators from the ER&L community—library professionals who can provide unique perspectives to our work and share a vision of the library world from their perspective—to the conference.
+</p>
+
+<div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+  {% for fellow in travel %}
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <img src="{{ fellow.image | url }}" alt="{{ fellow.name }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ fellow.name }}</h5>
+          <p class="card-text">
+            {{ fellow.text | safe  }}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p>
+  Learn more about the [DLF + ER&L Cross-Pollinator Travel Award Fellows]({{ '/fellowships/erl-cross-pollinator/' | url }}).
+</p>
+
+<hr>
+
+<h2>DLF Forum Museum Cross-Pollinators</h2>
+
+<p>
+  This fellowship is for practicing museum professionals seeking more exposure on the trends in digital libraries.
+</p>
+
+<div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+  {% for fellow in cross_pollinators %}
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <img src="{{ fellow.image | url }}" alt="{{ fellow.name }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ fellow.name }}</h5>
+          <p class="card-text">
+            {{ fellow.text | safe  }}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p>
+  Learn more about the <a href="{{ '/fellowships/museum-cross-pollinators/' | url }}">DLF Forum Museum Cross-Pollinators</a>.
+</p>
+<hr>
+
+<h2>DLF Forum Students and New Professionals Fellows</h2>
+
+<p>
+  These fellows are newcomers to the profession and students at DLF member institutions whose work relates to digital libraries.
+</p>
+
+<div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+  {% for fellow in new_professionals %}
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <img src="{{ fellow.image | url }}" alt="{{ fellow.name }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ fellow.name }}</h5>
+          <p class="card-text">
+            {{ fellow.text | safe  }}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p>
+  Learn more about the <a href="{{ '/fellowships/new-professionals/' | url }}">DLF Forum Students and New Professionals Fellows</a>.
+</p>
+
+<hr>
+
+<h2>VRA + DLF Cross-Pollinator Travel Grant Fellow</h2>
+
+<p>
+  This grant extends the opportunity to attend the DLF Forum to a visual resources professional who would not typically go to the Forum, but who can envision and articulate a connection with their work and who sees great value in building a dynamic and diverse peer network.
+</p>
+
+<div class="row row-cols-1 row-cols-md-2 mb-3 text-center">
+  {% for fellow in vra_travel %}
+    <div class="col">
+      <div class="card mb-4 rounded-3 shadow-sm">
+        <img src="{{ fellow.image | url }}" alt="{{ fellow.name }}">
+        <div class="card-body">
+          <h5 class="card-title">{{ fellow.name }}</h5>
+          <p class="card-text">
+            {{ fellow.text | safe  }}
+          </p>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<p>
+Learn more about this year's <a href="{{ '/fellowships/vra-travel-grant/' | url }}">VRA + DLF Cross-Pollinator Travel Grant Fellow</a>.
+</p>
+<hr>
+
+<h2>Our Sponsors</h2>
+
+<p>Thank you to our generous sponsors for making these fellowships possible.</p>
+
+<div class="text-center py-3">
+  <div class="my-3 py-3">
+    <a href="https://www.arl.org/">
+      <img src="{{ '/assets/images/ARL-logo-acronym-and-name-horizontal-4-300x99.png' | url }}" alt="ARL">
+    </a>
+  </div>
+  <div class="my-3 py-3">
+    <a href="https://electroniclibrarian.org/">
+      <img src="{{ '/assets/images/ERL-Logo_LimeTeal_PMS-300x108.png' | url }}" alt="ER&L">
+    </a>
+  </div>
+  <div class="my-3 py-3">
+    <a href="http://www.kressfoundation.org/">
+      <img src="{{ '/assets/images/Kress_Logo_sq-wider-frame-300x99.jpg' | url }}" alt="Kress Foundation">
+    </a>
+  </div>
+  <div class="my-3 py-3">
+    <a href="http://vraweb.org/">
+      <img src="{{ '/assets/images/VRA-logo-300x147.jpeg' | url }}" alt="Kress Foundation">
+    </a>
+  </div>
+</div>

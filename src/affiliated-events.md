@@ -1,30 +1,55 @@
 ---
 layout: base
 title: Affiliated Events
+image: /assets/images/Sewells-Marina-Stand-Up-Paddle-Board-w-tag.jpg
 eleventyNavigation:
   key: Affiliated Events
   order: 1
 ---
+These events take place around the Forum, but you do not have to register for the Forum to attend. Affiliated events attendees from non-DLF member institutions can register at the DLF member rate. Registration for affiliated events is closed.
 
-[**Ally Skills Workshop**]({{ '2014forum/allies/' | url }})  
-Wednesday, October 29, 2014  
-$30, 3:00-5:00pm
+**PLN Community Meeting**  
+October 22-23, 2015  
+[More information](http://plnwiki.lockss.org/wiki/index.php/PLN_Community_Meeting_2015)
 
-**E-Research Peer Network and Mentoring Group Meeting**  
-Sunday, October 26, 2014, 1:00–5:00pm  
-This meeting is for members of the [ERPNMG](https://www.diglib.org/learning/erpnmg/).
+[**DLF Liberal Arts Colleges Preconference**]({{ '/affiliated-events/dlflac/' | url }})  
+Sunday, October 25, 2015  
+9am – 5pm  
+Pinnacle Hotel Vancouver Harbourfront  
+$35 – Registration
 
-**[#libtechwomen Meetup]({{ '/libtechwomen-meetup' | url }})**  
-Monday, October 27, 2014, following the Forum opening reception  
-No RSVP required.
+**[Digital Humanities and Libraries Meetup]({{ '/affiliated-events/dhlib/' | url }})**  
+Tuesday, October 27, 2015  
+Starts at 5:30pm  
+Steamworks  
+Registration not required; all are welcome
 
-**Listening-Based Python Workshop**
-Thursday, October 30, 2014 (includes required pre- and post-workshop conference calls)  
-$150/$75 students, 8:30am–5:00pm
+**[DPLA Data Day: Building a Stronger Cultural Heritage Network]({{ '/affiliated-events/dpla-data-day/' | url }})**  
+Wednesday, October 28, 2015  
+1pm – 5pm  
+Pinnacle Hotel Vancouver Harbourfront  
+Free, registration is required
 
-**[Running Group]({{ '/forum-running-group' | url }})**  
-Tuesday, October 28, 2014, 6:15–7:00am
+**[DPN Fall Membership Meeting]({{ '/affiliated-events/dpn/' | url }})**  
+Thursday, October 29, 2015  
+9am – 5 pm  
+Pinnacle Hotel Vancouver Harbourfront  
+Free, registration is required
 
-[**Taiga Forum 10**]({{ '/registration/taiga/' | url }})  
-Thursday, October 30, 2014  
-$90, 9:00am–4:00pm (includes lunch)
+**[LODLAM in Practice Workshop]({{ '/affiliated-events/lodlaminpractice' | url }}) — Sold Out**  
+Thursday, October 29, 2015  
+9am – 5 pm  
+Pinnacle Hotel Vancouver Harbourfront  
+$75 – Registration
+
+**[Islandora Digital Repository Workshop]({{ '/affiliated-events/islandora/' | url }})**  
+Thursday, October 29, 2015  
+10am – 4 pm  
+Pinnacle Hotel Vancouver Harbourfront  
+$80 – Registration
+
+**[Taiga Forum]({{ '/affiliated-events/taiga-forum/' | url }})**  
+Thursday, October 29, 2015  
+10am – 4pm  
+Lillooet Room (301), Chapman Learning Commons, Irving K Barber Centre, University of British Columbia Vancouver Campus  
+$120 – Registration
