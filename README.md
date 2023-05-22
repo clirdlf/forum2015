@@ -1,6 +1,6 @@
-# DLF Forum 2014
+# DLF Forum 2015
 
-Archive of the 2014 DLF Forum
+Archive of the 2015 DLF Forum
 
 ## Development
 
@@ -10,6 +10,6 @@ npm start
 
 ## Inspiration
 
-<https://web.archive.org/web/20150316024627/http://www.diglib.org/forums/2014forum>
+<https://web.archive.org/web/20160116101255/https://www.diglib.org/forums/2015forum/>
 
 https://savjee.be/blog/migrating-this-blog-from-jekyll-to-eleventy/

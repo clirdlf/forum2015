@@ -11,6 +11,10 @@
 	background-color: rgb(121, 116, 93);
 }
 
+.bg-burgundy {
+  background-color: #560319;
+}
+
 .bg-silver {
 	background-color: rgb(120, 135, 148);
 }
@@ -28,7 +32,7 @@
 }
 
 .jumbotron {
-	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/EXTERIOR.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/assets/images/Daytime-Panoramic-Tourism-Vancouver-tagged.jpg");
 
   /* Set a specific height */
   height: 50%;

@@ -1,7 +1,7 @@
 {
-  "name": "forum2014.diglib.org",
+  "name": "forum2015.diglib.org",
   "version": "1.0.0",
-  "description": "DLF Forum 2014",
+  "description": "DLF Forum 2015",
   "scripts": {
     "build": "npx @11ty/eleventy",
     "build-ghpages": "npx @11ty/eleventy",
