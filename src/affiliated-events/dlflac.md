@@ -4,7 +4,7 @@ image: /assets/images/Douglas-Farmer-Photography-English-Bay-CC.jpg
 layout: presentation
 ---
 
-The Digital Library Federation is hosting our first annual **DLF Liberal Arts Colleges Preconference** on October 25th in Vancouver, Canada, preceding this year’s [DLF Forum](https://web.archive.org/web/20160203052754/https://www.diglib.org/forums/2015forum).
+The Digital Library Federation is hosting our first annual **DLF Liberal Arts Colleges Preconference** on October 25th in Vancouver, Canada, preceding this year’s [DLF Forum]({{ '/' | url }}).
 
 This will be a one day meeting specifically created for those who work with digital libraries and/or digital scholarship at liberal arts colleges. The event is designed to foster conversation and build community, both formally and informally. Participants do not need to be members of DLF.
 

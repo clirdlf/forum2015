@@ -1,10 +1,16 @@
 .bg-gold,
 .bg-silver,
 .bg-green,
+.bg-dark,
 .bg-blue,
+.bg-platinum,
 .bg-darkgray {
 	color: #fff;
 	font-size: 2rem;
+}
+
+.bg-platinum {
+  background-color: rgb(221, 221, 221);
 }
 
 .bg-gold {
