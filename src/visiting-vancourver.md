@@ -52,7 +52,7 @@ Bike rental reviews on Yelp are [here](http://www.yelp.ca/search?cflt=bikerental
 
 The DLF is dedicated to providing a harassment-free conference experience for everyone. Please see the [Code of Conduct](https://www.diglib.org/about/code-of-conduct/) for more information. We value your attendance and your comfort!
 
-Vancouver has been called “the most accessible city in the world” (_We’re Accessible_, a newsletter for travelers with disabilities). Our conference hotel is equipped with accessible paths of travel and offers mobility accessible rooms and roll-in showers; for specific questions and concerns regarding the accessibility of the Pinnacle Hotel, please contact the hotel by phone at 1-844-337-3118 (toll-free from anywhere within North America). For more information on accessible travel and transportation within BC, visit: [http://www.accesstotravel.gc.ca/1.aspx?lang=en](https://web.archive.org/web/20191210202239/https://www.accesstotravel.gc.ca/1.aspx?lang=en).
+Vancouver has been called “the most accessible city in the world” (_We’re Accessible_, a newsletter for travelers with disabilities). Our conference hotel is equipped with accessible paths of travel and offers mobility accessible rooms and roll-in showers; for specific questions and concerns regarding the accessibility of the Pinnacle Hotel, please contact the hotel by phone at 1-844-337-3118 (toll-free from anywhere within North America). For more information on accessible travel and transportation within BC, visit: [http://www.accesstotravel.gc.ca/1.aspx?lang=en](https://www.accesstotravel.gc.ca/1.aspx?lang=en).
 
 We wish to remind attendees that refraining from using scented products will help ensure the comfort of everyone at the Forum.
 
@@ -169,7 +169,7 @@ And sample some of Vancouver and British Columbia’s beers at these fine establ
 
 **Central City Red Racer Restaurant**
 871 Beatty Street  
-[http://centralcitybrewpub.com/red-racer-restaurant-on-beatty-st/](https://web.archive.org/web/20160504221346/http://centralcitybrewpub.com:80/red-racer-restaurant-on-beatty-st/)
+[http://centralcitybrewpub.com/red-racer-restaurant-on-beatty-st/](http://centralcitybrewpub.com:80/red-racer-restaurant-on-beatty-st/)
 
 **Six Acres**
 203 Carrall St  
@@ -194,7 +194,7 @@ The Vancouver Canucks host the Montreal Canadiens on Tuesday, October 27, 2015; 
 **Mancakes**
 288 Robson Street  
 604.721.7868  
-[http://mancakesbakery.com/](https://web.archive.org/web/20160402042828/http://www.mancakesbakery.com/)  
+[http://mancakesbakery.com/](http://www.mancakesbakery.com/)  
 Yelp: [http://www.yelp.ca/biz/mancakes-bakery-vancouver?osq=Best+Cupcakes](http://www.yelp.ca/biz/mancakes-bakery-vancouver?osq=Best+Cupcakes)
 
 **Sweet Bake Shop**
@@ -266,7 +266,7 @@ Yelp: [http://www.yelp.ca/biz/luckys-doughnuts-vancouver-2?osq=lucky%27s+donuts]
 [http://vancouverchinesegarden.com/](http://vancouverchinesegarden.com/)
 
 **Vancouver Public Library Central Branch**  
-[http://www.vpl.ca/branches/details/central\_library](https://web.archive.org/web/20170509131151/http://www.vpl.ca:80/branches/details/central_library)
+[http://www.vpl.ca/branches/details/central\_library](http://www.vpl.ca:80/branches/details/central_library)
 
 **Vancouver Art Gallery**  
 [http://www.vanartgallery.bc.ca/](http://www.vanartgallery.bc.ca/)

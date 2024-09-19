@@ -41,6 +41,6 @@ $150
 $100 for CLIR/DLF Postdoctoral Fellows  
 $75 for students
 
-[**Register**](https://web.archive.org/web/20141020045645/http://www.eventbrite.com/e/2014-dlf-forum-registration-6709352855) by October 10. Students use promotion code **PythonStudent14** to save $75. CLIR/DLF Postdoctoral Fellows use promotion code **CLIRDLFpfpPW** to save $50.
+[**Register**](http://www.eventbrite.com/e/2014-dlf-forum-registration-6709352855) by October 10. Students use promotion code **PythonStudent14** to save $75. CLIR/DLF Postdoctoral Fellows use promotion code **CLIRDLFpfpPW** to save $50.
 
 You do not need to attend the DLF Forum to attend this workshop.
